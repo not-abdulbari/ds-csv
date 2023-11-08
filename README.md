@@ -1,2 +1,1 @@
-# ds-csv
-In this repository you may find all the necessary .csv files required to complete the Python Data Science Lab Experiment
+In this repository, you can find all the necessary .csv files required to complete the Python Data Science Lab Experiment.
